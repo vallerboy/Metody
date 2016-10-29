@@ -17,7 +17,7 @@ public class Zadanie6 {
 		for (int i = 0; i < converted.length(); i++) {
             sum += Character.getNumericValue(converted.charAt(i));
 		}
-
+      
 		return sum;
 	}
 
