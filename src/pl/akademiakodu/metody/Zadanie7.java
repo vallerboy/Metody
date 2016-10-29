@@ -34,7 +34,7 @@ public class Zadanie7 {
 	               return true;
 	            }
 	        }
-	 
+	  
 	         return false;
 	    }
 	  
